@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*K_B9fk4OLex0SizoDAUC3w.jpeg)
+![MasterHead height="400"](https://miro.medium.com/v2/resize:fit:1400/1*K_B9fk4OLex0SizoDAUC3w.jpeg)
 <h1 align="center">Hi 👋, I'm Nilesh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/wed-developer-programmer-coding-augmented-reality-screen-premium-vector_375605-332.jpg">	
