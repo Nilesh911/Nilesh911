@@ -4,13 +4,13 @@
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/wed-developer-programmer-coding-augmented-reality-screen-premium-vector_375605-332.jpg">	
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nilesh911&label=Profile%20views&color=0e75b6&style=flat" alt="nilesh911" /> </p>
 
-- 🔭 I’m currently working on **React Project**
+- 🔭 I’m currently working on **SQL Project**
 
-- 🌱 I’m currently learning **Python libraries**
+- 🌱 I’m currently learning **AWS**
 
-- 💬 Ask me about **Python , MERN**
+- 💬 Ask me about **MYSQL,POWERBI,REACT**
 
-- 📫 How to reach me **nphadatare11@gmail.com**
+- 📫 How to reach me **nphadtare88@gmail.com**
 
 - ⚡ Fun fact **I am not funny**
 
