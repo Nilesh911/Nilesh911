@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Nilesh</h1>
-<h3 align="center">A passionate MERN stack developer from India</h3>
+<h3 align="center">A passionate Data Analyst</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/wed-developer-programmer-coding-augmented-reality-screen-premium-vector_375605-332.jpg">	
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nilesh911&label=Profile%20views&color=0e75b6&style=flat" alt="nilesh911" /> </p>
 
