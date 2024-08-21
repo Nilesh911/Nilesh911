@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **SQL Project**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Selenium**
 
 - 💬 Ask me about **MYSQL,POWERBI,REACT**
 
